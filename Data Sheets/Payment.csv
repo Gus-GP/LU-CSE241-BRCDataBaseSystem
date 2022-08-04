@@ -1,0 +1,768 @@
+Customer_id,Type _payment
+889,Credit Card
+955,Credit Card
+435,Credit Card
+57,Credit Card
+751,Credit Card
+664,Credit Card
+755,Credit Card
+789,Credit Card
+919,Credit Card
+954,Credit Card
+32,Credit Card
+314,Credit Card
+704,Credit Card
+589,Credit Card
+295,Credit Card
+492,Credit Card
+147,Credit Card
+613,Credit Card
+825,Credit Card
+948,Credit Card
+904,Credit Card
+379,Credit Card
+23,Credit Card
+563,Credit Card
+884,Credit Card
+827,Credit Card
+145,Credit Card
+540,Credit Card
+714,Credit Card
+502,Credit Card
+604,Credit Card
+636,Credit Card
+217,Credit Card
+639,Credit Card
+161,Credit Card
+39,Credit Card
+290,Credit Card
+461,Credit Card
+870,Credit Card
+493,Credit Card
+206,Credit Card
+761,Credit Card
+572,Credit Card
+387,Credit Card
+304,Credit Card
+96,Credit Card
+579,Credit Card
+686,Credit Card
+616,Credit Card
+465,Credit Card
+323,Credit Card
+34,Credit Card
+424,Credit Card
+991,Credit Card
+428,Credit Card
+583,Credit Card
+876,Credit Card
+817,Credit Card
+667,Credit Card
+297,Credit Card
+865,Credit Card
+744,Credit Card
+944,Credit Card
+447,Credit Card
+325,Credit Card
+77,Credit Card
+158,Credit Card
+535,Credit Card
+873,Credit Card
+877,Credit Card
+413,Credit Card
+259,Credit Card
+481,Credit Card
+564,Credit Card
+932,Credit Card
+292,Credit Card
+748,Credit Card
+42,Credit Card
+485,Credit Card
+266,Credit Card
+277,Credit Card
+911,Credit Card
+286,Credit Card
+512,Credit Card
+220,Credit Card
+55,Credit Card
+808,Credit Card
+918,Credit Card
+516,Credit Card
+619,Credit Card
+342,Credit Card
+280,Credit Card
+374,Credit Card
+566,Credit Card
+287,Credit Card
+5,Credit Card
+677,Credit Card
+353,Credit Card
+169,Credit Card
+524,Credit Card
+488,Credit Card
+915,Credit Card
+219,Credit Card
+362,Credit Card
+20,Credit Card
+63,Credit Card
+679,Credit Card
+800,Credit Card
+606,Credit Card
+658,Credit Card
+929,Credit Card
+309,Credit Card
+49,Credit Card
+635,Credit Card
+135,Credit Card
+892,Credit Card
+961,Credit Card
+307,Credit Card
+750,Credit Card
+946,Credit Card
+622,Credit Card
+426,Credit Card
+787,Credit Card
+41,Credit Card
+984,Credit Card
+83,Credit Card
+414,Credit Card
+597,Credit Card
+139,Credit Card
+860,Credit Card
+793,Credit Card
+500,Credit Card
+640,Credit Card
+306,Credit Card
+475,Credit Card
+100,Credit Card
+792,Credit Card
+113,Credit Card
+968,Credit Card
+981,Credit Card
+650,Credit Card
+247,Credit Card
+434,Credit Card
+436,Credit Card
+811,Credit Card
+573,Credit Card
+186,Credit Card
+757,Credit Card
+660,Credit Card
+463,Credit Card
+275,Credit Card
+627,Credit Card
+437,Credit Card
+834,Credit Card
+211,Credit Card
+881,Credit Card
+707,Credit Card
+790,Credit Card
+848,Credit Card
+947,Credit Card
+388,Credit Card
+17,Credit Card
+784,Credit Card
+844,Credit Card
+777,Credit Card
+237,Credit Card
+313,Credit Card
+992,Credit Card
+483,Credit Card
+821,Credit Card
+505,Credit Card
+925,Credit Card
+985,Credit Card
+600,Credit Card
+845,Credit Card
+663,Credit Card
+227,Credit Card
+849,Credit Card
+521,Credit Card
+769,Credit Card
+179,Credit Card
+785,Credit Card
+515,Credit Card
+623,Credit Card
+661,Credit Card
+624,Credit Card
+851,Credit Card
+898,Credit Card
+831,Credit Card
+742,Credit Card
+382,Credit Card
+258,Credit Card
+126,Credit Card
+422,Credit Card
+473,Credit Card
+389,Credit Card
+874,Credit Card
+347,Credit Card
+645,Credit Card
+168,Credit Card
+986,Credit Card
+538,Credit Card
+181,Credit Card
+200,Credit Card
+725,Credit Card
+526,Credit Card
+321,Credit Card
+689,Credit Card
+605,Credit Card
+741,Credit Card
+52,Credit Card
+455,Credit Card
+673,Credit Card
+361,Credit Card
+826,Credit Card
+846,Credit Card
+176,Credit Card
+692,Credit Card
+358,Credit Card
+599,Credit Card
+967,Credit Card
+909,Credit Card
+103,Credit Card
+529,Credit Card
+832,Credit Card
+71,Credit Card
+370,Credit Card
+718,Credit Card
+875,Credit Card
+472,Credit Card
+940,Credit Card
+554,Credit Card
+74,Credit Card
+653,Credit Card
+300,Credit Card
+988,Credit Card
+552,Credit Card
+470,Credit Card
+423,Credit Card
+144,Credit Card
+1,Credit Card
+835,Credit Card
+631,Credit Card
+738,Credit Card
+730,Credit Card
+634,Credit Card
+244,Credit Card
+964,Credit Card
+108,Credit Card
+47,Credit Card
+806,Credit Card
+490,Credit Card
+208,Credit Card
+530,Credit Card
+752,Credit Card
+764,Credit Card
+674,Credit Card
+384,Credit Card
+319,Credit Card
+580,Credit Card
+854,Credit Card
+171,Credit Card
+256,Credit Card
+44,Credit Card
+900,Credit Card
+872,Credit Card
+254,Credit Card
+518,Credit Card
+497,Credit Card
+770,Credit Card
+913,Credit Card
+551,Credit Card
+966,Credit Card
+997,Credit Card
+133,Credit Card
+561,Credit Card
+250,Credit Card
+815,Credit Card
+713,Credit Card
+962,Credit Card
+533,Credit Card
+745,Credit Card
+282,Credit Card
+85,Credit Card
+936,Credit Card
+754,Credit Card
+464,Credit Card
+97,Credit Card
+916,Credit Card
+9,Credit Card
+536,Credit Card
+140,Credit Card
+867,Credit Card
+999,Credit Card
+927,Credit Card
+333,Credit Card
+378,Credit Card
+859,Credit Card
+637,Credit Card
+499,Credit Card
+996,Credit Card
+156,Debit Card
+824,Debit Card
+993,Debit Card
+615,Debit Card
+191,Debit Card
+429,Debit Card
+582,Debit Card
+166,Debit Card
+354,Debit Card
+682,Debit Card
+466,Debit Card
+51,Debit Card
+820,Debit Card
+899,Debit Card
+440,Debit Card
+359,Debit Card
+450,Debit Card
+723,Debit Card
+405,Debit Card
+772,Debit Card
+553,Debit Card
+885,Debit Card
+861,Debit Card
+482,Debit Card
+114,Debit Card
+180,Debit Card
+451,Debit Card
+442,Debit Card
+255,Debit Card
+705,Debit Card
+153,Debit Card
+788,Debit Card
+774,Debit Card
+766,Debit Card
+702,Debit Card
+433,Debit Card
+920,Debit Card
+510,Debit Card
+141,Debit Card
+585,Debit Card
+853,Debit Card
+438,Debit Card
+418,Debit Card
+395,Debit Card
+107,Debit Card
+612,Debit Card
+837,Debit Card
+24,Debit Card
+281,Debit Card
+53,Debit Card
+694,Debit Card
+506,Debit Card
+644,Debit Card
+50,Debit Card
+803,Debit Card
+672,Debit Card
+643,Debit Card
+288,Debit Card
+357,Debit Card
+914,Debit Card
+700,Debit Card
+717,Debit Card
+229,Debit Card
+332,Debit Card
+331,Debit Card
+350,Debit Card
+747,Debit Card
+121,Debit Card
+183,Debit Card
+950,Debit Card
+681,Debit Card
+236,Debit Card
+830,Debit Card
+917,Debit Card
+349,Debit Card
+998,Debit Card
+320,Debit Card
+94,Debit Card
+804,Debit Card
+223,Debit Card
+252,Debit Card
+348,Debit Card
+574,Debit Card
+623,Check
+661,Check
+624,Check
+851,Check
+898,Check
+831,Check
+742,Check
+382,Check
+258,Check
+126,Check
+422,Check
+473,Check
+389,Check
+874,Check
+347,Check
+645,Check
+168,Check
+986,Check
+538,Check
+181,Check
+200,Check
+725,Check
+526,Check
+321,Check
+689,Check
+605,Check
+741,Check
+52,Check
+455,Check
+673,Check
+361,Check
+826,Check
+846,Check
+176,Check
+692,Check
+358,Check
+599,Check
+967,Check
+909,Check
+103,Check
+529,Check
+832,Check
+71,Check
+370,Check
+718,Check
+875,Check
+472,Check
+940,Check
+554,Check
+74,Check
+653,Check
+300,Check
+988,Check
+552,Check
+470,Check
+423,Check
+144,Check
+1,Check
+835,Check
+631,Check
+738,Check
+730,Check
+634,Check
+244,Check
+964,Check
+108,Check
+47,Check
+806,Check
+490,Check
+208,Check
+530,Check
+752,Check
+764,Check
+674,Check
+384,Check
+319,Check
+580,Check
+854,Check
+171,Check
+256,Check
+44,Check
+900,Check
+872,Check
+254,Check
+518,Check
+497,Check
+770,Check
+913,Check
+551,Check
+966,Check
+997,Check
+133,Check
+561,Check
+250,Check
+815,Check
+713,Check
+962,Check
+533,Check
+745,Check
+282,Check
+85,Check
+936,Check
+754,Check
+464,Check
+97,Check
+916,Check
+9,Check
+536,Check
+140,Check
+867,Check
+999,Check
+927,Check
+333,Check
+378,Check
+859,Check
+637,Check
+499,Check
+996,Check
+92,Check
+735,Check
+546,Check
+711,Check
+104,Check
+797,Check
+570,Check
+118,Check
+587,Check
+411,Check
+18,Check
+509,Check
+577,Check
+130,Check
+224,Check
+75,Check
+887,Check
+268,Check
+6,Check
+117,Check
+59,Check
+971,Check
+33,Check
+375,Check
+550,Check
+136,Check
+257,Check
+569,Check
+249,Check
+396,Check
+494,Check
+174,Check
+245,Check
+386,Check
+684,Check
+338,Check
+724,Cash
+960,Cash
+771,Cash
+776,Cash
+972,Cash
+528,Cash
+912,Cash
+794,Cash
+850,Cash
+607,Cash
+91,Cash
+233,Cash
+25,Cash
+61,Cash
+625,Cash
+231,Cash
+182,Cash
+656,Cash
+491,Cash
+857,Cash
+565,Cash
+699,Cash
+242,Cash
+928,Cash
+863,Cash
+155,Cash
+630,Cash
+420,Cash
+271,Cash
+112,Cash
+839,Cash
+137,Cash
+214,Cash
+152,Cash
+514,Cash
+352,Cash
+609,Cash
+759,Cash
+611,Cash
+46,Cash
+336,Cash
+995,Cash
+310,Cash
+578,Cash
+907,Cash
+941,Cash
+222,Cash
+446,Cash
+159,Cash
+595,Cash
+95,Cash
+527,Cash
+732,Cash
+406,Cash
+501,Cash
+651,Cash
+939,Cash
+156,Cash
+824,Cash
+993,Cash
+615,Cash
+191,Cash
+429,Cash
+582,Cash
+166,Cash
+354,Cash
+682,Cash
+466,Cash
+51,Cash
+820,Cash
+899,Cash
+440,Cash
+359,Cash
+450,Cash
+723,Cash
+405,Cash
+772,Cash
+553,Cash
+885,Cash
+861,Cash
+482,Cash
+114,Cash
+180,Cash
+451,Cash
+442,Cash
+255,Cash
+705,Cash
+153,Cash
+788,Cash
+774,Cash
+766,Cash
+702,Cash
+433,Cash
+920,Cash
+510,Cash
+141,Cash
+585,Cash
+853,Cash
+438,Cash
+418,Cash
+395,Cash
+107,Cash
+612,Cash
+837,Cash
+24,Cash
+281,Cash
+53,Cash
+694,Cash
+506,Cash
+644,Cash
+50,Cash
+803,Cash
+672,Cash
+643,Cash
+288,Cash
+357,Cash
+914,Cash
+700,Cash
+717,Cash
+229,Cash
+332,Cash
+331,Cash
+350,Cash
+747,Cash
+121,Cash
+183,Cash
+950,Cash
+681,Cash
+236,Cash
+830,Cash
+917,Cash
+349,Cash
+998,Cash
+320,Cash
+94,Cash
+804,Cash
+223,Cash
+252,Cash
+348,Cash
+574,Cash
+308,Cash
+13,Cash
+397,Cash
+739,Cash
+841,Cash
+196,Cash
+102,Cash
+749,Cash
+921,Cash
+903,Cash
+799,Cash
+340,Cash
+467,Cash
+445,Cash
+975,Cash
+265,Cash
+298,Cash
+344,Cash
+519,Cash
+43,Cash
+869,Cash
+828,Cash
+209,Cash
+477,Cash
+138,Cash
+666,Cash
+953,Cash
+646,Cash
+109,Cash
+688,Cash
+943,Cash
+537,Cash
+720,Cash
+989,Cash
+746,Cash
+185,Cash
+283,Cash
+791,Cash
+65,Cash
+576,Cash
+610,Cash
+251,Cash
+662,Cash
+68,Cash
+652,Cash
+685,Cash
+398,Cash
+329,Cash
+28,Cash
+949,Cash
+560,Cash
+305,Cash
+503,Cash
+511,Cash
+548,Cash
+795,Cash
+633,Cash
+205,Cash
+131,Cash
+36,Cash
+878,Cash
+990,Cash
+425,Cash
+243,Cash
+743,Cash
+427,Cash
+813,Cash
+951,Cash
+513,Cash
+507,Cash
+880,Cash
+360,Cash
+959,Cash
+504,Cash
+559,Cash
+976,Cash
+260,Cash
+571,Cash
+963,Cash
+930,Cash
+469,Cash
+729,Cash
+868,Cash
+642,Cash
+163,Cash
+291,Cash
+970,Cash
+598,Cash
+246,Cash

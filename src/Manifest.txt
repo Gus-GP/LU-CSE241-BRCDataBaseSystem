@@ -1,0 +1,2 @@
+Class-Path: ojdbc7.jar
+Main-Class: MainCode
