@@ -2,7 +2,7 @@
 /**
  * This class will represent a customer for the BRC enterprise
  *
- * @author Gustavo Grinsteins
+ * @author Gustavo Grins
  * @version 2018.05.01
  */
 public class Customer {
